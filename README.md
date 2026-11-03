@@ -1,4 +1,4 @@
-# Two-In — application Android
+# TwoIn — application Android
 
 ## Télécharger
 
@@ -8,11 +8,12 @@ Toutes les versions : [Releases](https://github.com/florianchares/twoin-app/rele
 
 ## Installer
 
-1. Téléchargez `twoin.apk` sur votre téléphone Android.
-2. Ouvrez le fichier. Si Android le demande, autorisez l'installation d'applications depuis cette source (navigateur ou gestionnaire de fichiers).
-3. Lancez **Two-In**.
+1. Téléchargez `twoin.apk` sur votre téléphone Android. Si Chrome vous met en garde, touchez « Télécharger quand même ».
+2. Ouvrez le fichier. Android demande d'autoriser l'installation depuis cette source : touchez « Paramètres », activez « Autoriser cette source », puis revenez.
+3. Touchez « Installer ». Si Play Protect affiche « Application inconnue », choisissez « Installer quand même ».
+4. Lancez **TwoIn**.
 
-Les mises à jour s'installent par-dessus la version précédente : vos données sont conservées.
+Les nouvelles versions sont proposées directement dans l'application. Elles s'installent par-dessus la précédente : vos données sont conservées.
 
 ## Liens
 
